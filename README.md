@@ -12,7 +12,10 @@ Welcome to my TMDB Movie Data Analysis project. Movies have been a big part of o
 
 -Bringing data to life through captivating visualizations
 
+## Data visualization
+Power BI was used to build the dashboard(screenshot attached below).
 
+![Movies Analysis using Power BI](https://github.com/OryemaStephen/movies-analysis/blob/main/Movies%20Analysis.png)
 
 ## Insights
 
